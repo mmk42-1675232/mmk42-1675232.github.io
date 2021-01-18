@@ -1,0 +1,44 @@
+body {
+	background-color: #B0E0E6;
+}
+
+#firstp {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#secondp {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.floatright {
+	float: right;
+	
+}
+
+.dottedborder {
+	border: dotted;
+}
+
+.roundedcorners {
+	border-radius: 25px;
+}
+
+.slighttransparent {
+	opacity: 0.7;
+}
+
+.shadowed {
+	box-shadow: 5px 5px 4px grey; 
+}
+
